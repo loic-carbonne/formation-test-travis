@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 use PHPUnit\Framework\TestCase;
-
+include 'StringCalculator.php';
 /**
  *  * @covers Email
  *   */
