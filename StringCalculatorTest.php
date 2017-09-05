@@ -73,7 +73,7 @@ final class StringCalculatorTest extends TestCase
     {
       $this->assertSame(
           StringCalculator::Add("//[*][%]\n1*2%3"),
-          7
+          6
       );
     }
 
